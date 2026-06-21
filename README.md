@@ -79,24 +79,19 @@ src/
 
 ---
 
-## 📸 Screenshots
+## 📸 Application Preview
 
-### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+### Portfolio Dashboard
+![Portfolio Dashboard](screenshots/portfolio.png)
 
-### Market View
-![Market](screenshots/market.png)
+### Analytics Dashboard
+![Analytics Dashboard](screenshots/dashboard-overview.png)
 
-### Portfolio Management
-![Portfolio](screenshots/portfolio.png)
+### Market Tracking
+![Market Tracking](screenshots/market-overview.png)
 
-### Asset Management
-![Manage Stocks](screenshots/manage-stocks.png)
-
-### Transaction History
-![History](screenshots/history.png)
-
----
+### Admin Panel
+![Admin Panel](screenshots/Admin-panel.png.png)
 
 ## 🎯 Key Highlights
 
